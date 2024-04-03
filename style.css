@@ -67,7 +67,7 @@ body {
 
 .estudante-div{
     text-align: center;
-    padding: 16px 0;
+    padding: 0px 0;
 }
 
 .estudante-titulo{
@@ -77,7 +77,7 @@ body {
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 
 .rodape{
@@ -89,4 +89,23 @@ body {
     height: 60px;
     padding: 12px 0;
    
+}
+.Funcionarios-foto{
+    width: 120px;
+}
+.Funcionarios-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.funcionarios-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.Funcionarios-div{
+    text-align: center;
+    padding: 0px 0;
+}
+.funcionario-icone{
+    width: 24px;
+    padding: 4px 8px;
 }
