@@ -90,20 +90,35 @@ body {
     padding: 12px 0;
    
 }
-.Funcionarios-foto{
+#funcionario{
+    padding: 24px 0;
+}
+
+
+.funcionario-imagem{
     width: 120px;
 }
-.Funcionarios-todos{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+
+.funcionario-nome{
+    width: 24px;
+    padding: 4px 8px;
 }
-.funcionarios-titulo{
+
+.funcionario-div{
+    text-align: center;
+    padding: 16px 0;
+    
+}
+
+.funcionario-titulo{
     text-align: center;
     padding: 50px 0;
 }
-.Funcionarios-div{
-    text-align: center;
-    padding: 0px 0;
+
+.funcionario-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    
 }
 .funcionario-icone{
     width: 24px;
